@@ -2,7 +2,7 @@
 # 0 ：（暂撇开环境）
 ## a. 智能指针和RAII原则
 
-内存 对象创建：RAII原则，突然又看到了智能指针，发现真是相同的。
+内存 对象创建：RAII原则，突然又看到了智能指针，发现很多技术都是相通的。
 
 c++端的 :RAII资源说明 https://docs.microsoft.com/zh-cn/cpp/cpp/object-lifetime-and-resource-management-modern-cpp?view=msvc-170 
 
